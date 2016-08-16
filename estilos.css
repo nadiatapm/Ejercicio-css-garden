@@ -1,0 +1,48 @@
+#css-zen-garden {
+
+	background-color:#9ACD32	;	
+}
+ header {
+ 	font-family:cursive;
+ 	font-size: 16px;
+ 	text-align:center;
+ 	color:	#006400;
+
+
+
+ }
+ h3{
+
+ 	font-family:cursive;
+ 	text-decoration:underline;
+    color:	#006400;
+
+ }
+  div {
+
+ 
+background-color:#EEE8AA;
+}
+div div p{
+	font-family:cursive; 
+	font-size: 15px;
+
+}
+
+
+ul li{
+font-family:cursive;
+
+
+
+}
+a{
+	text-decoration: none;
+	color:green;
+
+
+}
+
+
+
+
