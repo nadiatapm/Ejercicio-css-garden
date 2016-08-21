@@ -1,45 +1,42 @@
 #css-zen-garden {
 
-	background-color:#9ACD32	;	
+	background-color:#EAEDED;
+	border:solid grey 2px;
+	padding:20px;
 }
  header {
- 	font-family:cursive;
- 	font-size: 16px;
+ 	width:700px;
+ 	margin:20px;
+    padding:30px;
+   border:solid grey 2px;
+ 	font-size: 30px;
+ 	font-family: cursive;
  	text-align:center;
- 	color:	#006400;
-
-
-
+ 	color:#273746;
  }
- h3{
 
+ h3{
  	font-family:cursive;
  	text-decoration:underline;
-    color:	#006400;
-
- }
-  div {
-
- 
-background-color:#EEE8AA;
+    color:#273746;
 }
+    
+  
 div div p{
 	font-family:cursive; 
-	font-size: 15px;
-
+	font-size:17px;
+	color:#5D6D7E  ;
 }
 
 
 ul li{
 font-family:cursive;
-
-
-
+color: #D35400;
 }
+
 a{
 	text-decoration: none;
-	color:green;
-
+	color:#A03737;
 
 }
 
